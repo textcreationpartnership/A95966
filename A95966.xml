@@ -1,0 +1,347 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The corruption of minde. Described in a sermon preached at Pauls the 24. day of June, 1655. / By Richard Vines, preacher of Gods word at Laurence-Jury, London.</title>
+            <author>Vines, Richard, 1600?-1656.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95966</idno>
+            <idno type="STC">Wing V549</idno>
+            <idno type="STC">ESTC R203881</idno>
+            <idno type="EEBO-CITATION">43077738</idno>
+            <idno type="OCLC">ocm 43077738</idno>
+            <idno type="VID">151851</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95966)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151851)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2279:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The corruption of minde. Described in a sermon preached at Pauls the 24. day of June, 1655. / By Richard Vines, preacher of Gods word at Laurence-Jury, London.</title>
+                  <author>Vines, Richard, 1600?-1656.</author>
+               </titleStmt>
+               <extent>[2], 21 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Abel Roper at the Sun over against St. Dunstans Church in Fleet-street,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1655]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Error in paging: 10-11 appear twice (i.e. 12-13 are skipped).</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in: Henry E. Huntington Library, San Marino, California.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Sermons.</term>
+               <term>Bible. --  N.T. --  Corinthians II, 3 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151851:1" rendition="simple:additions"/>
+            <p>THE CORRUPTION OF MINDE.</p>
+            <p>DESCRIBED.</p>
+            <p>In a Sermon preached at <hi>Pauls</hi> the 24. day of <hi>June.</hi> 1655.</p>
+            <p>By RICHARD VINES Preacher of Gods Word at <hi>Laurence-Jury, London.</hi>
+            </p>
+            <bibl>2 COR. 2. 17.</bibl>
+            <q>We are not as many which corrupt the Word of God, but as of ſincerity, but as of God ſpeak we in Chriſt.</q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Abel Roper</hi> at the <hi>Sun</hi> over againſt St. <hi>Dunſtans</hi> Church in <hi>Fleet-ſtreet.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:151851:2"/>
+            <pb n="1" facs="tcp:151851:2"/>
+            <head>The Corruption of Minde DESCRIBED.</head>
+            <epigraph>
+               <bibl>2 Cor. 11. 3.</bibl>
+               <q>But I fear lest by any meanes as the Serpent beguiled Eve by his ſubtilty, ſo your mindes ſhould be cor<g ref="char:EOLhyphen"/>rupted from the ſimplicity that is in Chriſt, or <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> towards Chriſt.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">A</seg>S the mother of Chriſt truly was, ſo the Church of Chriſt may be truly called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (as <hi>Clem. Alex.</hi> ſaith) a virgin mother.</p>
+            <p>The fruitfulneſs of her womb to bring forth children unto God.</p>
+            <p>The fulneſs of her breaſts to bring them up un<g ref="char:EOLhyphen"/>to God, ſpeak her a mother.</p>
+            <pb n="2" facs="tcp:151851:3"/>
+            <p>The ſimplicity of the faith, chaſtity of worſhip, ſincerity of love, integrity of life, ſpeak her a virgin.</p>
+            <p>Chriſt anſwers the type of him the high Prieſt, <hi>Levit. 21. 14. A widow or a harlot, he ſhall not take, but he ſhall take a virgin to wife.</hi>
+            </p>
+            <p>And therefore it is the ſcope of the Goſpel-Miniſters whom God ſends (as <hi>Abraham</hi> did his ſervant with Commiſſion to procure a wife for his ſon) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> to fit and treat a match to eſpouſe chaſte virgins unto Chriſt, ver. 2.</p>
+            <p>Which ſcope if we do but carry in our eye, and aime at in our Miniſtery, we ſhould avoid the too much uſed folly, and imbrace the ſucceſsfull foo<g ref="char:EOLhyphen"/>liſhneſs of Goſpel-preaching. We may juſtly ask the cauſe of our Apoſtle his feare, leſt this Corin<g ref="char:EOLhyphen"/>thian virgin ſhould become a <hi>Thais;</hi> for unjuſt ſuſ<g ref="char:EOLhyphen"/>pition is a kind of ſlander to chaſtity: and the que<g ref="char:EOLhyphen"/>ſtion is, how the Apoſtle could ſay, I am jealous; for the virgin was not eſpouſed to him, but Chriſts Miniſters are but the ſpokes-men, the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, treating for Chriſt, 2 <hi>Cor.</hi> 5. 10. they neither ſowe nor mowe for themſelvs, there<g ref="char:EOLhyphen"/>fore he takes off the doubt in that expreſſion, <hi>I am jealous over you</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, with jealouſie of God.</p>
+            <p>And he gives the reaſon; The firſt <hi>Adams Eve</hi> was corrupted from her virgin righteouſneſs, and ſo may the ſecond <hi>Adams</hi> eſpouſed virgin (the <hi>Co<g ref="char:EOLhyphen"/>rinthian</hi> Church) be corrupted from the ſimplici<g ref="char:EOLhyphen"/>ty that is in Chriſt. <hi>Eve</hi> by the Serpent which was <hi>Satanae leno,</hi> the Devils pander. The Corin<g ref="char:EOLhyphen"/>thians
+<pb n="3" facs="tcp:151851:3"/> by ſuch Preachers as he deſcribes to be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, 2. <hi>Cor.</hi> 2 17. Corrupters of the Word, as huckſters by their mixtures do <hi>jugulare vinum,</hi> adulterate the viginity of good wine.</p>
+            <p>In theſe words you may conſider two things:</p>
+            <p n="1">1 The object of the Apoſtle his fear.</p>
+            <p n="2">2 The inſtance or example, whence he draws a ſimilitude, ſhewing the way and meanes of ac<g ref="char:EOLhyphen"/>compliſhing that he feares.</p>
+            <p>1 The thing he feares is the corruption and conſtupration of this eſpouſed virgin, which cor<g ref="char:EOLhyphen"/>ruption he deſcribes,</p>
+            <p n="1">1 By the ſeat of it, the minde, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> leſt your mindes be corrupted, for the foul veſſell corrupts the pureſt liquor, corruption begins in the minde, as they ſay the fiſh begins to ſtink at the head, and we know defluxions from the head corrupt the vitals and lower region.</p>
+            <p n="2">2 The term <hi>a quo</hi> is the ſimplicity or chaſtity that is towards Chriſt, which they had before, and which is required in them that are eſpouſed to Chriſt Jeſus, who are then corrupted, when they generate and deviate from their ſimplicity of faith and worſhip; for, we cannot ſay of any of theſe virgins eſpouſed to Chriſt, as was ſaid of that vir<g ref="char:EOLhyphen"/>gin, the mother of our Lord, that before they came together, ſhe was found to be with child by the holy Ghoſt.</p>
+            <p>2 The inſtance or example made uſe of for deſcribing the way of corrupting the minde from the ſimplicity that is in Chriſt, is the firſt and an<g ref="char:EOLhyphen"/>cienteſt
+<pb n="4" facs="tcp:151851:4"/> example in the world, leſt by any meanes as the Serpent beguiled <hi>Eve,</hi> &amp;c. This part of the Text contains the <hi>ſicut</hi> and <hi>ſic</hi> the As, So, and there are foure things in it.</p>
+            <p>
+               <hi>As the Serpent,</hi> that is, Satan in his inſtrument; for the Devil appears not in his own colours, the Serpent doth not alwayes weare the ſame ſlough or skin, the Devil ſheaths himſelf in a fit caſe for his purpoſe, for he is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> unſociable with man; therefore hath his miniſters, ver. 15. <hi>deceit<g ref="char:EOLhyphen"/>ful workers, falſe Apoſtles,</hi> and theſe inſtruments he puts on, he tempts the proud by, <hi>ye ſhall be as Gods,</hi> the ſenſual by the <hi>promiſe, liberty,</hi> &amp; ſome by oſtentation of holineſs; for, there is a <hi>Phariſaical,</hi> a <hi>monaſticall,</hi> a <hi>ſuperſtitious holineſs,</hi> a holineſs of mans making, he tempts Chriſt by <hi>Peter, Come be<g ref="char:EOLhyphen"/>hinde me, Satan.</hi>
+            </p>
+            <p>2 The Serpent beguiled the woman <hi>Eve,</hi> for the woman <hi>by the Serpent,</hi> the man <hi>by the woman,</hi> the ſtronger by the weaker veſſel, the husband by the wife; as the Angler takes the ſmall fiſh by a worm, and then that ſmall fiſh taken doth become a bait for the greater fiſh; ſo it is ſaid of his agents they lead captive ſilly women, they <hi>deceive the hearts of the ſipmle,</hi> Rom. 16. 18</p>
+            <p>3 The way of the Serpents deceiving the wo<g ref="char:EOLhyphen"/>man, was by corrupting of her minde, ſee its the Apoſtles obſervation, 1 <hi>Tim.</hi> 2. 14. that not the man, but the woman was deceived, becauſe ſhe be<g ref="char:EOLhyphen"/>lieved that God had enviouſly ſet them in a lower Orbe than they might be in, if they eate of the
+<pb n="5" facs="tcp:151851:4"/> fruit of that tree of knowledge.</p>
+            <p>4 This deceiving of the woman was by ſubtilty, as it appears by many reſpects, wherein the ſerpent prevaricated the words of God, and perverted their meaning, this ſubtilty or <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Cogging of the dice is aſcribed to deceivers, Eph.</hi> 4. 14.</p>
+            <p>The ſum is,</p>
+            <p>The Goſpel-ſtate of the Church is called a new Creation: <hi>I create a new heavens and a new earth;</hi> in this new creation God hath ſet forth another <hi>A<g ref="char:EOLhyphen"/>dam</hi> Jeſus Chriſt, out of this <hi>Adam</hi> dying, as out of the firſt ſleeping, God hath formed a Church, this Church is eſpouſed to the Lord Chriſt, as <hi>Eve</hi> was to the <hi>firſt</hi> as a chaſte virgin, and there are Serpents now, as there was one then, that attempt the corrupting of the virginity of this Church; and therefore ſaith the Apoſtle, <hi>But I fear,</hi> &amp;c.</p>
+            <p>From the firſt part of the text, the thing feared, I take up two Doctrines.</p>
+            <p n="1">1 <hi>The ſimplicity that is in Chriſt, is to be holden untainted.</hi>
+            </p>
+            <p n="2">2 <hi>The corruption of the minde is the cauſe of devia<g ref="char:EOLhyphen"/>tion, or receſs from that ſimplicity.</hi>
+            </p>
+            <p>I begin with the firſt.</p>
+            <p>The virgin chaſtity of the ſoul eſpouſed to Chriſt Jeſus, which loves not to be painted with any <hi>Fucus</hi> of meretricious gaudineſs, ſimpleneſs or ſimplicity in vulgar ſpeech, and ſometimes in Scripture ſounds towards <hi>fooliſh credulity</hi> or want of wit.</p>
+            <p>But in the true notion of the word it ſignifies a
+<pb n="6" facs="tcp:151851:5"/> 
+               <hi>freedom</hi> from <hi>compoſition,</hi> and ſo we call the ſim<g ref="char:EOLhyphen"/>plicity of Gods being, which is without all com<g ref="char:EOLhyphen"/>poſition.</p>
+            <p>Moſt commonly it is a <hi>freedom</hi> from <hi>mixture</hi> of heterogeneal things which might adulterate puri<g ref="char:EOLhyphen"/>ty. In Doctrine unlearnedneſs, in faith unfai<g ref="char:EOLhyphen"/>nedneſs in love ſincerity, in worſhip chaſtity, in life and converſation integrity, do make up that we call ſimplicity of Chriſt, which I ſhall com<g ref="char:EOLhyphen"/>dendiate into theſe three.</p>
+            <list>
+               <item>1 Simplicity of Doctrine.</item>
+               <item>2 Of Worſhip.</item>
+               <item>3 Of life.</item>
+            </list>
+            <p>1 The ſimplicity of Chriſt was <hi>perſonal;</hi> for be<g ref="char:EOLhyphen"/>ing in the form of God, he emptied himſelf, and took on him the form of a ſervant, <hi>Phil.</hi> 2. 6.</p>
+            <p>
+               <hi>Official,</hi> in the acting of offices of his <hi>Prieſt, Pro<g ref="char:EOLhyphen"/>phet,</hi> and <hi>King,</hi> in great ſimplicity.</p>
+            <p>Doctrinal, in the preaching of the Goſpel.</p>
+            <p>Converſionall, in the deportment of his life.</p>
+            <p>But now I ſpeak of the ſimplicity of his Do<g ref="char:EOLhyphen"/>ctrine, the Doctrine of the Goſpel which is a miſte<g ref="char:EOLhyphen"/>ry that exceeds in glory, 2 <hi>Cor.</hi> 3. 9. and which the Angels ſtoop down to pry into, and yet is in con<g ref="char:EOLhyphen"/>tempt as fooliſhneſs with the wiſdom of this world that wch is a quinteſſence above al clementary lear<g ref="char:EOLhyphen"/>ning, and tranſcendent above every predicament, hath been entertained with <hi>Stand thou here, or ſit under my footſtool;</hi> whereas that which the Apo<g ref="char:EOLhyphen"/>ſtle calls vain Philoſophy, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<pb n="7" facs="tcp:151851:5"/> ſcience falſly ſo called, hath been entertained with <hi>Sit thou here in a good place.</hi> The Doctrine of which you are born, is called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, incorruptible ſad, and which you are nouriſhed by, is called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſincere milk, which denotes ſimplicity. Chriſt for righteouſneſs, Chriſt for a root on whom the branches do live dependingly, for the root <hi>beares</hi> them, and derivingly, for the root <hi>feeds</hi> them is the ſum of this doctrine.</p>
+            <p>Here is no mixture of Jewiſh rites, as if we would look for Chriſt in that manger wherein he lay when he was a babe; the bird is now hatcht, and the eggſhel lies empty.</p>
+            <p>Here is no corrival of mans works to ſpoile this ſimplicity, there remains no place for them, as they are meritorious, for that ſets them in the chair of Chriſt; nor as they are motives of God to juſtifie, for that ſets them in the place of free<g ref="char:EOLhyphen"/>grace, nor as conditions of the Covenant, for that ſets them in the place of faith, but as they are fruits of holineſs, for that ſets them in their own place, aſſigned to them by this Doctrine.</p>
+            <p>2 Simplicity of worſhip, which is called ſpirit, and truth <hi>Job.</hi> 4. 23. not Judaicall and ſhadowiſh, not Samaritan &amp; idolatrous, but ſpiritual and inward.</p>
+            <p>The Apoſtle calls the Jewiſh types, which were rich, beggarly Elements, we have them in the rich plainneſs of the Goſpel. In matter of wor<g ref="char:EOLhyphen"/>ſhip, that of <hi>Auſtin</hi> is the truth, and <hi>Socrates</hi> had ſeen it before, <hi>colendus eſt quomodo ſe colendum prae<g ref="char:EOLhyphen"/>ceperit,</hi> as himſelf hath commanded.</p>
+            <pb n="8" facs="tcp:151851:6"/>
+            <p>Thoſe that were mint-maſters of worſhip, uſed to feign correſpondence with ſome deity, that un<g ref="char:EOLhyphen"/>der that reputation they might vend off their de<g ref="char:EOLhyphen"/>vices.</p>
+            <p>God muſt ſtamp that worſhip as ſhall be cur<g ref="char:EOLhyphen"/>rant, man is apt to indulge his eye in Gods wor<g ref="char:EOLhyphen"/>ſhip; It's the hardeſt thing (ſaith one) to leave our eye and fancie behind us (as <hi>Abraham</hi> did his ſer<g ref="char:EOLhyphen"/>vants, when we go up into the monnt to ſacrifice.) The ſpiritual part of religion, is the hardeſt part.</p>
+            <p>If we look into <hi>Juſtin Martyr,</hi> and ſee how the dreſſe of worſhip was changed, by degrees we ſhal finde, that it became at length <hi>quaſi reductus in Eccleſiam Judaiſmus,</hi> unbecoming the purity of this virgin.</p>
+            <p>3 The ſimplicity of life; It was an excellent teſtimoniall ſubſcribed by the Apoſtle his con<g ref="char:EOLhyphen"/>ſcience, 2 <hi>Cor.</hi> 1. 2. that in ſimplicity and godly ſincerity, we have had our converſation in this world.</p>
+            <p>The form of godlineſs, is but a Mathematicall body, conſiſting of lineaments onely: Religion is practicall and alwayes married to honeſty and righteouſneſs towards men; religious diſhoneſty is worſe than a Chriſtian married to a Heathen; in the times we live, that ſaying is too true, <hi>univer<g ref="char:EOLhyphen"/>ſus mundus exercet hiſtrioniam,</hi> all men almoſt diſ<g ref="char:EOLhyphen"/>guiſe and act parts.</p>
+            <p>Men either make it a ſtalking horſe to their own game, a footſtool to their ends, a covert of gold
+<pb n="9" facs="tcp:151851:6"/> for their filthy deſignes, or lodge it onely in the cock-loft of a cold brain, and not in the warme room of affections.</p>
+            <p>And the ſimplicity of Chriſt, is broken into a multiplicity of ſenſes and wayes.</p>
+            <p>Let this Point for uſe recommend to Miniſters and people both the ſimplicity of Chriſt.</p>
+            <p>1 To the Miniſtery; for though this be not a place to teach them, yet it is a place to teach you what to ſay, and what to expect of <hi>Archippus, vi<g ref="char:EOLhyphen"/>delicet</hi> the ſimplicity of Chriſt both in the matter and manner of the delivery of this Doctrine.</p>
+            <p>1 Simplicity for the matter of the Doctrine, I am not aſhamed of the Goſpel of Chriſt, ſaith he that had ſitten at the feet of <hi>Gamaliel;</hi> for (though that of <hi>Juſtin Martyr</hi> be true, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, All truth ſpoken by <hi>Plato</hi> or <hi>Ariſtotle</hi> is ours, and that which is true in <hi>Phi<g ref="char:EOLhyphen"/>loſophy;</hi> is true alſo in every place; yet) it is of the ſeed of the Word, <hi>quod Chriſtus naſcitur in corde auditorum.</hi>
+            </p>
+            <p>We muſt ſet bread before hungry ſouls, and not be like the School-men, that ſet men upon gnawing hard ſtones.</p>
+            <p>All learning may be ſpent upon the ſimplicity of the Goſpell.</p>
+            <p>In breaking down ſtrong holds, meeting with ſubtilty of mens hearts, raiſing up the dejected Spirit proſtrate under ſin, counter-mining the methods and ſtratagems of the Devill, and you will finde that the old <hi>Adam</hi> in mens hearts is too hard for young <hi>Melancthon,</hi> and <hi>who is ſufficient for theſe things?</hi>
+            </p>
+            <pb n="10" facs="tcp:151851:7"/>
+            <p>2 Simplicity for manner of delivery for painted glaſſe is more gaudy, but cleer glaſs tranſmits more light, the rule is to clothe ſpiritual things with ſpiritual words 1 <hi>Cor.</hi> 2. 13.</p>
+            <p>Its vain oile that's ſpent in ſtrong lines, that hang together, as <hi>ſand without time,</hi> ſtanding together as letters in the Hebrew, one not touch<g ref="char:EOLhyphen"/>ing another.</p>
+            <p>Let a crucified Chriſt be preacht in a crucified Phraſe, and though you preach not with embroide<g ref="char:EOLhyphen"/>ry of ſilver and gold, yet <hi>ſurge &amp; ambula,</hi> if you make the hearer ariſe and walk, its farre the better.</p>
+            <p>It is not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to divide the Word a right (a word taken from culling up of the ſacrifices) to ſhred the intrals into mince meat, or to put the text to death and torment, ſo as to make the peo<g ref="char:EOLhyphen"/>ple eat the fleſh with the blood; <hi>Keep the true pat<g ref="char:EOLhyphen"/>tern of wholſom words.</hi>
+            </p>
+            <div type="part">
+               <head>The People</head>
+               <p>Are exhorted to hold faſt this threefold ſimpli<g ref="char:EOLhyphen"/>city of Chriſt in Doctrine worſhip, and conver<g ref="char:EOLhyphen"/>ſation.</p>
+               <p>In Doctrine; All Scipture centers in, and looks to Chriſt, both Old Teſtament and New as the Cherubims to one another, and both to the mer<g ref="char:EOLhyphen"/>cy ſeat; he was then ſwathed up in types, he is now unvaled in a rich plainnes of the Goſpel, thoſe precious ſtones which God promiſes to build his Church, <hi>Iſa.</hi> 54. 13. Do all come but to this, All thy children ſhall be taught of God.</p>
+               <pb n="11" facs="tcp:151851:7"/>
+               <p>In worſhip, ſpirit and truth are better than <hi>Jeru<g ref="char:EOLhyphen"/>ſalem</hi> and this <hi>mountain,</hi> therefore be ſatisfied in ſimplicity of Goſpel-ſacraments, which as <hi>Dupleſ<g ref="char:EOLhyphen"/>ſis</hi> obſervs, have been made by men, the port-gates of ſuperſtition and curioſity, becauſe the eye hath ſomewhat to do in them, as corruption began at the tree in Paradiſe, and came in by the eye.</p>
+               <p>In life, that your voice be not onely ſmooth, and hands rough; for practical holineſs is the life of religion, elſe we may have golden heads, and feet of clay.</p>
+               <p>To conclude, let it be our joynt aime, the ſim<g ref="char:EOLhyphen"/>plicity that is in Chriſt, and be not too indulgent to your ears, which hath ſometime been the vani<g ref="char:EOLhyphen"/>ty of hearers of thoſe Sermons at <hi>Pauls,</hi> coming hither for Jewels to hang in their ears, rather then for wholſom Bread.</p>
+               <p>Let not the tree of Knowledge be preferred be<g ref="char:EOLhyphen"/>fore the tree of life, leſt when you come to die, you cry out with <hi>Craeſus, Solon, Solon,</hi> who had before time taught him of bleſſedneſs without regard.</p>
+               <p>There is ſuch multiplicity of opinions, that moſt men count it impoſſible to reduce the ſwarm into one hive, eſpecially becauſe men uſually lay ſo much weight, every man upon his own opinion, not conſidering that the kingdom of God conſiſts not in meat and drink, but righteouſneſs and peace and joy in the holy Ghoſt, <hi>Rom.</hi> 14. 17. Hence it is that one <hi>unchurches</hi> another, and <hi>unchriſts</hi> an<g ref="char:EOLhyphen"/>other, <hi>&amp; ſolos credit habendos eſſe deos quos ipſe colit,</hi> as the Poet anciently leaves the queſtion about the bigneſs, diſtance, motion of the Sun, to Mathe<g ref="char:EOLhyphen"/>maticians,
+<pb n="10" facs="tcp:151851:8"/> thou mayeſt have as much benefit by the Sun, as they that altercare about them.</p>
+               <p>Above all things lay not the foundation of your communion in the agreement one of another with you in all your private opinions, that's a principle that will divide the Church <hi>in ſemper diviſibilia,</hi> that makes the foundation of the houſe of the twig of a tree, not of the body.</p>
+               <p>And peradventure, as there are not two of a hundred of one face, ſo not of one opinion in all things extrinſecal, nay haply, ſaith a learned man, not <hi>Peter</hi> and <hi>Paul.</hi>
+               </p>
+               <p>
+                  <hi>Certa ſunt in paucis,</hi> (ſaith <hi>Tertullian</hi>) fundamen<g ref="char:EOLhyphen"/>tals are few, they that make too many of them, make the fewer Chriſtians, if a man hold faſt the ſimplicity of Chriſt in Doctrine, worſhip, life; though not admitted into your fellowſhip, yet they will be in your Communion through Chriſt, whether you will or no.</p>
+            </div>
+            <div type="part">
+               <head>Doct. 2<hi rend="sup">d.</hi>
+               </head>
+               <p>
+                  <hi>The Corruption of the mind is the cauſe of deviati<g ref="char:EOLhyphen"/>on, or receſs from the ſimplicity that is in Chriſt.</hi>
+               </p>
+               <p>This Point gives occaſion to entreat of the cor<g ref="char:EOLhyphen"/>tuption of the minde; the word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> ſometimes ſignifies plots, devices, 2 <hi>Cor.</hi> 2. 11 ordinarily the reaſonings, apprehenſion, judgement, the leading faculty of the ſoule, which is the ſubject and ſeat of this corruption.</p>
+               <p>This is not meant of natural corruption, which
+<pb n="11" facs="tcp:151851:8"/> is a part of original ſin, for it is the corruption of Goſpel-truth formerly received, eſpecially do<g ref="char:EOLhyphen"/>ctrinall corruption: and therefore the Apoſtle ha<g ref="char:EOLhyphen"/>ving ſaid; Chriſt, the ſame yeſterday, to day and for ever; preſently adds, <hi>Be not carried away by di<g ref="char:EOLhyphen"/>vers and ſtrange Doctrines,</hi> Heb. 13. 9.</p>
+               <p>The Text affords me three things, for the o<g ref="char:EOLhyphen"/>opening of this Point.</p>
+               <p n="1">1 The corruption of minde here feared, is of them that have received the virgin truth; a ſad thing that they that bloſſom ſo faire, ſhould be blaſted or cankered; it is not corruption of life he feares, but of minde; many are tainted in their intellectuals, that make a fair ſhew in morals; the Apoſtle propheſies of a time that will come, <hi>That men will not indure ſound doctrine</hi> (they will not imbrace, nay, they will not indure it) <hi>but will turn away their eares from the truth, and be turned to fables,</hi> 2 Tim. 4. 3.</p>
+               <p n="2">2 This corruption of minde is to be feared, both by Miniſters for the flock, and alſo by parents and maſters, yet there are few, as wofull experience ſhews us; and therefore young men, and unballaſt are negligently ſuffered without bridle to ruſh in<g ref="char:EOLhyphen"/>to the infection, as if it was nothing to have the le<g ref="char:EOLhyphen"/>proſie in the head, to make ſhip wrack of faith, to corrupt the ſimplicity of Chriſt to beare that fear<g ref="char:EOLhyphen"/>full brand, 2 <hi>Tim.</hi> 3. 8. men of corrupt mindes, reprobate concerning the faith, <hi>The light of the bo<g ref="char:EOLhyphen"/>dy</hi> (ſaith out Saviour) <hi>is the eye.</hi> If that be ſingle, the whole body is full of light; if evill, the <gap reason="missing" extent="1 page">
+                     <desc>〈1 page missing〉</desc>
+                  </gap>
+                  <pb n="14" facs="tcp:151851:9"/> bed is full of darkneſs, the minde is the Pilot or Steerſ-man, and if we weigh truths at a falſe beame, we may take and miſtake the moſt deſpe<g ref="char:EOLhyphen"/>rate errour for the moſt precious truth.</p>
+               <p n="3">3 The firſt point or ſtep of receſs and of devia<g ref="char:EOLhyphen"/>tion from the ſimplicity of Chriſt, is the corrupti<g ref="char:EOLhyphen"/>on of minde, how many ſtairs do men fall? how many floores high, untill they fall even into Athe<g ref="char:EOLhyphen"/>iſme, from a zealous profeſſion? A reprobate mind is the puniſhment of a corrupt mind, <hi>Ro. 1. 28 They did not like to retein God in their knowledge, therefore God gave them over to a reprobate minde:</hi> therefore we had need to keep principles pure; for the cloud, that at firſt ſhowes, but like a mans hand may ſuddenly overſpread the whole heaven.</p>
+               <p>The cauſes of this corruption of minde, are theſe and ſuch like.</p>
+               <p n="1">1 The minde being the upper region, is corrup<g ref="char:EOLhyphen"/>ted from the lower region, paſſions, luſts, intereſts by ends, do bribe the minde to be advocate for errour, and miſ-biaſſe the judgement; the ſtaffe that is ſtreight of it ſelf, ſeems crooked in the wa<g ref="char:EOLhyphen"/>ter, by refraction of the ſpecies, or duplicity of the medium; and we know that our eye or brain is di<g ref="char:EOLhyphen"/>ſtempered by ſuffuſions of choler, <hi>&amp;c.</hi> from a foule ſtomack.</p>
+               <p n="2">2 Ungroundedneſs in the truth, betrays the minde to deceit and errour; and empty barne is ſoon blown down; oh, that our people were ſo
+<pb n="15" facs="tcp:151851:9"/> ungrounded in Catechiſtical doctrine, which is in<g ref="char:EOLhyphen"/>deed the reaſon, that they are an eaſie prey to all kinde of Sectaries, and do <hi>cedere occupanti</hi> (as I may ſay) fall to the firſt occupant.</p>
+               <p n="3">3 A meer notion, which is like light without heat, a winter-ſnow, a thing without ſenſe, and feeling of any powerfull operation, and work of truth upon the heart is but a ſlender guard from this corruption of the minde; a man without much adoe recedes from barren notions; he that feels the warmth and power is not eaſily changed; they did not receive the truth with love of the truth, and therefore God gave them up to effi<g ref="char:EOLhyphen"/>cacy of errour, 2 <hi>Theſſ.</hi> 2. 10.</p>
+               <p n="4">4 A ſatiety or diſlike of ſaving doctrine: when novelty is preferred, becauſe it's new, and ancient truth, like an old Miniſter, now adayes is leſſe re<g ref="char:EOLhyphen"/>garded; the ſtomack is crude and queaſie, and ſo reliſhes traſh better then wholſome food.</p>
+               <p n="5">5 The letting looſe of wilde reaſon to diſpute out faith; reaſon is but a Dwarf, too low to be<g ref="char:EOLhyphen"/>hold Chriſt, except it climbe into the fig-tree, and go let ſober men be content with that which is ſo frequently ſaid, <hi>It's written.</hi>
+               </p>
+               <p n="6">6 Pride of knowledge is very dangerous; the an<g ref="char:EOLhyphen"/>cient pride is this, and the Apoſtle thus expreſſes it, <hi>Eccleſ.</hi> 2. 18. being vainly pufft up in his fleſh<g ref="char:EOLhyphen"/>ly minde.</p>
+               <p n="7">7 Unſuſpitious credulity of others eminent in appearance of holineſs, doth at unawares enwrap
+<pb n="16" facs="tcp:151851:10"/> many well meaning men: The Novatians would not admit lapſed men to communion. The Do<g ref="char:EOLhyphen"/>natiſts would not beare with mixture in their Churches as they pretended; both theſe ſorts of men did bear a plauſible ſhew of holineſſe in their opinions; but God doth not approve a holineſſe of mans making; for that which is indeed holi<g ref="char:EOLhyphen"/>neſſe muſt have upon it Gods ſuperſcription.</p>
+            </div>
+            <div type="part">
+               <head>Uſe.</head>
+               <p>For the Uſe of this Doctrine, let me beſpeak you in the words of S. <hi>Peter, Epiſt. 2. Cap. 3. Verſ. penult. Take heed, lest being led away by the er<g ref="char:EOLhyphen"/>rour of the wicked,</hi> (or of lawleſſe men) <hi>ye fall from your own ſtedfaſtneſſe.</hi> This Caveat I might en<g ref="char:EOLhyphen"/>force upon you from divers Topicks or places; as namely, the dangerouſneſſe of this diſeaſe which ſeizes on the head, from whence (as ſaith the Greek Proverb) the fiſh doth firſt begin to be corrupted, as alſo from the eaſineſſe of being infected, and from the difficulty of the cure: but having ſpoke enough of the firſt of theſe, I will onely uſe a few words concerning the two latter.</p>
+               <p n="1">1 It's as eaſie to be infected, as it is for ſheep to catch the rot by feeding in rotten paſtures; and our experience ſhews us, that one that angles with ſuch baits, catches more fiſh in a week, than preach<g ref="char:EOLhyphen"/>ing of Chriſt, and the ſimplicity of him will catch in ſome yeers, for errour hath ſomething in us, as he that gave the reaſon for the faſter growth of
+<pb n="17" facs="tcp:151851:10"/> weeds than ſweet herbs, ſaid that the ſoile was na<g ref="char:EOLhyphen"/>turall mother to the one, and but ſtep-mother to the other.</p>
+               <p n="2">2 There is no ſimplicity of truth, a multiplici<g ref="char:EOLhyphen"/>ty of errour; the ſtreight line between point and point can be but one; the oblique lines, many; therefore it is eaſie to hang upon one tenter-hook or other, that look ſo many and even contrary wayes.</p>
+               <p n="3">3 Errour is many times more ſpecious to our ſhal<g ref="char:EOLhyphen"/>low, proud, corrupt reaſon, than the truth of God, whoſe depths and myſteries cannot other<g ref="char:EOLhyphen"/>wiſe be anſwered, then with, <hi>Tu quis es?</hi>
+               </p>
+               <p n="4">4 The mint-maſters of errour do uſually faſhion their doctrines to fleſh-pleaſing, and man-pleaſing; ye ſhall not eaſily finde that falſe prophets did preach the burdens of the Lord, but rather as <hi>Peter</hi> obſerves, 2 <hi>Pet.</hi> 2. 19. they promiſe liberty, which is ſo taking a thing, that looking humane<g ref="char:EOLhyphen"/>ly, we may wonder that Chriſt preaching repen<g ref="char:EOLhyphen"/>tance, ſelf-deniall, the croſſe, ſhould gain any.</p>
+               <p>So much for the eaſineſs of being infected; then next a word for the difficulty of the cure.</p>
+               <p>1 The cure is difficult, becauſe men are hard to be convinced of the ſin and falſhood, if with zeal &amp; open profeſſion they have maintained it; there<g ref="char:EOLhyphen"/>fore they in the Council of <hi>Trent</hi> (as the hiſtory relates) would hardly be drawn to admit of any
+<pb n="18" facs="tcp:151851:11"/> receſs from their former errours, <hi>ne viderentur er<g ref="char:EOLhyphen"/>raſſe,</hi> leſt they might ſeem to have erred, and ſo weaken the credit of all they held before, as the crack made in Ice, uſeth to runne further, then where it is firſt made.</p>
+               <p>But if in puniſhment upon them that receive not the truth in love, God do give men up to efficacy of errour, or do otherwiſe <hi>recompence their errour,</hi> by delivering them up to vile affecti<g ref="char:EOLhyphen"/>ons and luſts, <hi>Rom.</hi> 1. 27. who ſhall then pull off that fearfull ſeal of God, that ſeals them up in ſtu<g ref="char:EOLhyphen"/>pidity, and under a reprobate minde.</p>
+               <p>2 Therein men are great lovers of their own fancies; <hi>Amat quiſque quod a ſe repertum eſt,</hi> no mother but loves her own babe.</p>
+               <p>3 A conceit that errors of minde are not ſin, as morall ſins are, but there are diſeaſes of the head, as well as ſeated in other parts.</p>
+               <p>And certainly, theſe capitall diſtempers do great prejudice to practicall holineſs, being like ſuckers that bear no fruit, but do divert and draw away the ſap from the fruit-bearing branches.</p>
+               <p>So much for the firſt part, the object of the fear, leſt the mindes of the <hi>Corinthians</hi> ſhould be cor<g ref="char:EOLhyphen"/>rupted from the ſimplicity of Chriſt: the ſecond part is the reſemblance of falſe teachers to the ſer<g ref="char:EOLhyphen"/>pent, and this manner of beguiling <hi>Eve</hi> by ſubtil<g ref="char:EOLhyphen"/>ty, leſt as the ſerpent, &amp;c.</p>
+               <p>From which words the Point is obvious.</p>
+            </div>
+            <div type="part">
+               <head>Doct. 2.</head>
+               <p>
+                  <hi>As Eve was beguiled by the ſubtilty of the ſerpent,
+<pb n="19" facs="tcp:151851:11"/> ſo are mens mindes corrupted by falſe teachers from the ſimplicity of Chriſt;</hi> Falſe Doctors; Satanae lenones, <hi>ſaith one, they are Satans inſtruments, as the ſerpent was, the Devil his Pandors, worſting to the deflowering of Chriſts eſpouſed Virgins.</hi>
+               </p>
+               <p>The wiſdome of the ſerpent is commanded and warranted to Gods people, the ſubtilty of the ſerpent is found in theſe ſubverters of the chaſtity of Doctrine; I cannot, I may not ſpend any time in this point, for I have no ſand left; onely ob<g ref="char:EOLhyphen"/>ſerve,</p>
+               <p n="1">1 That the defection, the corruption of men principled with pure doctrine is feared. Goſpel<g ref="char:EOLhyphen"/>principles are not ſo much to be ſcanned by curio<g ref="char:EOLhyphen"/>ſitie of reaſon, as received in ſimplicity of faith</p>
+               <p n="2">2 The Apoſtle alledges the moſt ancient exam<g ref="char:EOLhyphen"/>ple of corruption of minde that is in the world; that which men call <hi>New Light</hi> is many times but ſome exploded errour furbiſht up, and old wayes are but acted once again. There is properly no new truth, but there may be new diſcoveries.</p>
+               <p n="3">3 What a ſharp compariſon doth he uſe to re<g ref="char:EOLhyphen"/>ſemble falſe teachers? unto the devil his firſt in<g ref="char:EOLhyphen"/>ſtrument uſed by him; and therefore let no man temeraciouſly ſay, <hi>they are holy men,</hi> they aime at more refined degree of holineſſe then others: for it's no wonder, ſaith the Apoſtle, that if Satan be transformed into an Angel of light, his Miniſters alſo be transformed or diſguiſed, as the Miniſters of righteouſneſſe.</p>
+               <p n="4">
+                  <pb n="20" facs="tcp:151851:12"/>4 The Serpent took <hi>Eve</hi> at the beginning, and ſubtilly raviſht her of her integrity, we muſt look to our ſelves; it's the uſual time to ſet upon us in our infancy of knowledge, either to diſgrace the truth newly brought to light, or to diſplant it be<g ref="char:EOLhyphen"/>fore it do take root.</p>
+               <p n="5">5 That corrupters come with ſubtilty, and have their ſlights, <hi>Epheſ.</hi> 4. 14. they come with good words, <hi>Rom.</hi> 16. 17. they beguile with enti<g ref="char:EOLhyphen"/>cing words, <hi>Col.</hi> 2. 4. they ſpeak lies in hypocriſie: 1 <hi>Tim.</hi> 4. 2. they can wear the rough garment, and ſheeps cloathing.</p>
+               <p>Their ſubtilty may be obſerved in the Serpen<g ref="char:EOLhyphen"/>tine which they imitate.</p>
+               <p n="1">1 The ſerpent ſet upon the weaker ſex, and the Apoſtle ſaith, they lead captive ſilly women.</p>
+               <p n="2">2 They are ſubtil in being modeſt at firſt, <hi>mi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> erroris ſunt verecunda, Hath God ſaid,</hi> Gen. 3. ſa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the ſerpent, the deceiver begins with <hi>queries</hi> rath<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> then down-right aſſertions.</p>
+               <p n="3">3 They will take their riſe from Gods Word, and rather wreſt then deny it, as the ſerpent here perverted thoſe words, <hi>the knowledge of good and evil,</hi> to another ſenſe and meaning.</p>
+               <p n="4">4 They promiſe magnificent and great things, they promiſe them liberty, ſaith <hi>Peter. 2 Pet. 2. 18. Ye ſhall be as gods,</hi> ſaith the ſerpent, what great bub<g ref="char:EOLhyphen"/>bles are uſually ſpoken of glory, joy, familiarity with God, &amp;c.</p>
+               <p n="5">5 They comply with mans pride, with ſelf, &amp;c. and fit the bait to the fiſh. They allure through
+<pb n="21" facs="tcp:151851:12"/> the luſts of the fleſh, &amp;c. 2 <hi>Pet.</hi> 2. 18.</p>
+               <p n="6">6 They draw a man from practical obedience un<g ref="char:EOLhyphen"/>to extrinſecal, and meer empty ſpeculations (for the theorie is pleaſant and eaſie, but the truth is bitter</p>
+               <p n="7">7 They bring points of faith, to thebar &amp; teſt of cap<g ref="char:EOLhyphen"/>tious reaſon: God in the prohibition of this tree, had ſhewn much arbitrarineſs of will, to make probati<g ref="char:EOLhyphen"/>on of mans obedience, &amp; therefore they ought not to have been arraigned <hi>coram non Judice,</hi> as neither the cleer points of faith.</p>
+               <p>The time puls me by the eare, and therefore for cloſe, as deceivers have the Serpents ſubtilty, ſo get you the Serpents wiſdom, and if I were to preſcribe prophylacticks or preſervatives I would exhort you, 1 To hold the head, and ſo to fortifie the vitals from this epidemick infection, <hi>Col.</hi> 2. 19. 2 To purſue practicall doctrine, ſolid meat, and let alone theſe ſweet meats; the tree of knowledge is fair to look on, the tree of life better to feed on. 3 Affect not things above the Word, a holineſs, a zeal, a knowledge, above what is writ<g ref="char:EOLhyphen"/>ten: <hi>Eve</hi> went ſome what further then Gods Word gave warrant when ſhe replied, <hi>neither ſhall ye touch it:</hi> ſo there are many will ſay, This is the holier way, this is the better, not having any Word for it. 4. Avoid the houſe of infection, the Fowlers net, <hi>From ſuch turn away,</hi> ſaith the Scripture, if the wo<g ref="char:EOLhyphen"/>man will confer with the Serpent; you ſee what comes on it, it's the itch and pride after novelties that expoſes us to temptations.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:151851:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
